@@ -1,4 +1,4 @@
-# basics
+# Dice Roller
 
 A new Flutter project.
 

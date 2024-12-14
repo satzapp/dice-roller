@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:myfantacycrypto/styled_text.dart';
-import 'package:myfantacycrypto/dice_roller.dart';
+import 'package:basics/styled_text.dart';
+import 'package:basics/dice_roller.dart';
 
 class BackgroundContainer extends StatelessWidget {
   const BackgroundContainer({super.key, required this.colors});

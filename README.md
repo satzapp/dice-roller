@@ -1,4 +1,4 @@
-# myfantacycrypto
+# basics
 
 A new Flutter project.
 

@@ -1,7 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:myfantacycrypto/styled_text.dart';
+import 'package:basics/styled_text.dart';
 
 final random = Random();
 

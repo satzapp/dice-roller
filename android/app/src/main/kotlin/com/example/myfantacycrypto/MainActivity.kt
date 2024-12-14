@@ -1,4 +1,4 @@
-package com.example.myfantacycrypto
+package com.example.basics
 
 import io.flutter.embedding.android.FlutterActivity
 

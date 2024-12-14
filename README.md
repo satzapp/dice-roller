@@ -1,4 +1,4 @@
-# myfantacycrypto
+# Dice Roller
 
 A new Flutter project.
 
